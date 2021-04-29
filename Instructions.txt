@@ -1,0 +1,5 @@
+Instructions to Run: 
+
+Please run final_project.py which is in rebollo_final_code and ensure that Hunter_Mountain_data.csv is in the same directory. 
+
+The output of this model are the overall accuracies of each model. Additionally there is a correlation matrix of the relevant variables. For each model there is an outputted graph which reflects the predicted model values vs. the actual values. 
